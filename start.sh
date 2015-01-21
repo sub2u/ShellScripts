@@ -1,5 +1,5 @@
-google-chrome
-subl
-firefox
-setsid hipchat
-terminator
+nohup google-chrome &
+nohup subl &
+nohup firefox &
+nohup setsid hipchat &
+nohup terminator
