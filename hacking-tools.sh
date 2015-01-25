@@ -1,3 +1,3 @@
- sudo apt-get install nmap
- sudo apt-get install netcat
- sudo apt-get install aircrack-ng
+ sudo apt-get -y install nmap
+ sudo apt-get -y install netcat
+ sudo apt-get -y install aircrack-ng
