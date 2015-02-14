@@ -16,6 +16,7 @@ sudo add-apt-repository -y ppa:pi-rho/security
 sudo apt-get -y update
 
 sudo apt-get -y install hydra
+# sudo apt-get -y install hydra-gtk #If you required GUI tool
 
 # Backbox tools for ubuntu
 sudo apt-get -y update
