@@ -18,6 +18,11 @@ sudo apt-get -y update
 sudo apt-get -y install hydra
 # sudo apt-get -y install hydra-gtk #If you required GUI tool
 
+# Ibstall TOR
+sudo apt-get install -y obfsproxy
+# For more information visit
+# https://www.torproject.org/projects/obfsproxy-debian-instructions.html.en 
+
 # Backbox tools for ubuntu
 sudo apt-get -y update
 sudo apt-get -y dist-upgrade
